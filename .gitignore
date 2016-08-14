@@ -1,0 +1,6 @@
+target/
+*.log
+qrcode.png
+.idea/
+xiaov.iml
+xiaov-master.iml
