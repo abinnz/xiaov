@@ -116,9 +116,6 @@
             <groupId>com.scienjus</groupId>
             <artifactId>smartqq</artifactId>
             <version>1.0</version>
-            <scope>system</scope>
-            <systemPath>${project.basedir}/src/main/resources/lib/smartqq-1.0.jar</systemPath>
-
         </dependency>
 
         <dependency>
