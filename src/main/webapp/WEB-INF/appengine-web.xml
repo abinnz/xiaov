@@ -19,7 +19,7 @@
 <!-- [START config] -->
 <appengine-web-app xmlns="http://appengine.google.com/ns/1.0">
   <application>xiaovqqrobot</application>
-  <version>1.0.1</version>
+  <version>1-0-1</version>
   <threadsafe>true</threadsafe>
 </appengine-web-app>
 <!-- [END config] -->
